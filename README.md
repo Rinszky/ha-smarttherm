@@ -21,7 +21,7 @@ A custom integration for Home Assistant to control SmartTherm (OCStat) thermosta
 
 1. Open **HACS** in your Home Assistant instance.
 2. Click the three dots in the top right corner and select **Custom repositories**.
-3. Paste the URL of this repository: `https://github.com/YOUR_USERNAME/ha-smarttherm`
+3. Paste the URL of this repository: `https://github.com/Rinszky/ha-smarttherm`
 4. Select **Integration** as the category and click **Add**.
 5. Once added, search for **SmartTherm** and click **Download**.
 6. Restart Home Assistant.
