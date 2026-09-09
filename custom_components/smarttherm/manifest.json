@@ -4,8 +4,8 @@
   "codeowners": [],
   "config_flow": true,
   "documentation": "https://github.com/Rinszky/ha-smarttherm",
-  "issue_tracker": "https://github.com/Rinszky/ha-smarttherm/issues",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Rinszky/ha-smarttherm/issues",
   "requirements": [],
   "version": "1.0.0"
 }
