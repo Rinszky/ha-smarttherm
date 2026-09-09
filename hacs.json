@@ -1,6 +1,4 @@
 {
   "name": "SmartTherm",
-  "render_readme": true,
-  "iot_class": "cloud_polling",
-  "type": "integration"
+  "render_readme": true
 }
