@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Yellow Rounded Square Background -->
+  <rect width="512" height="512" rx="110" fill="#FFEB3B"/>
+  
+  <!-- House Roof Outline -->
+  <path d="M70,250 L256,70 L442,250 L410,250 L256,102 L102,250 Z" fill="#212121"/>
+  
+  <!-- Right wall line -->
+  <rect x="402" y="235" width="22" height="210" fill="#212121"/>
+  <rect x="375" y="100" width="16" height="40" fill="#212121"/>
+  
+  <!-- Italic Bold Letter 'O' -->
+  <text x="210" y="380" font-family="Times New Roman, Georgia, serif" font-weight="bold" font-style="italic" font-size="240" fill="#212121" text-anchor="middle">O</text>
+</svg>

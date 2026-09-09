@@ -1,11 +1,11 @@
 {
   "domain": "smarttherm",
   "name": "SmartTherm",
-  "documentation": "https://github.com/Rinszky/ha-smarttherm",
-  "requirements": [],
   "codeowners": [],
-  "iot_class": "cloud_polling",
-  "version": "1.0.0",
   "config_flow": true,
-  "issue_tracker": "https://github.com/Rinszky/ha-smarttherm/issues"
+  "documentation": "https://github.com/Rinszky/ha-smarttherm",
+  "issue_tracker": "https://github.com/Rinszky/ha-smarttherm/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
 }
