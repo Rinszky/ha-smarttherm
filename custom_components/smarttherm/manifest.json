@@ -4,6 +4,7 @@
   "codeowners": [],
   "config_flow": true,
   "documentation": "https://github.com/Rinszky/ha-smarttherm",
+  "homeassistant": "2023.1.0",
   "issue_tracker": "https://github.com/Rinszky/ha-smarttherm/issues",
   "iot_class": "cloud_polling",
   "requirements": [],
