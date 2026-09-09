@@ -1,0 +1,11 @@
+{
+  "domain": "smarttherm",
+  "name": "SmartTherm",
+  "documentation": "https://github.com/custom-components/smarttherm",
+  "requirements": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "config_flow": true,
+  "issue_tracker": "https://github.com/custom-components/smarttherm/issues"
+}
